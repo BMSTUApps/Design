@@ -1,8 +1,11 @@
-# BMSTUScheduleDesign
+# Design
 
-Дизайн iOS-приложения
+Дизайн приложений
 
-* **iOS (new).sketch** - переосмысленный дизайн под iOS 11
-* **iOS (icon).sketch** - иконка приложения для iOS
-* **iOS (old).sketch** - старый дизайн
-* **BMSTU Schedule.origami** - один из первых концептов
+### Название файла
+
+PROJECT (PLATFORM) (VERSION).sketch
+
+* **PROJECT** - название проекта
+* **PLATFORM** - платформа (iOS или android)
+* **VERSION** - версия документа (если она не указана, то значит самая последняя)
